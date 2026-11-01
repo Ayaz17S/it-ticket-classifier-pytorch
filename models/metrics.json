@@ -1,0 +1,18 @@
+{
+  "labels": [
+    "access",
+    "email",
+    "hardware",
+    "network",
+    "password",
+    "software"
+  ],
+  "test_accuracy": 0.9777777777777777,
+  "test_macro_f1": 0.9777457103472159,
+  "baseline_tfidf_logreg_accuracy": 0.9777777777777777,
+  "train_seconds": 3.98,
+  "vocab_size": 2556,
+  "parameters": 168134,
+  "handwritten_accuracy": 0.7,
+  "handwritten_baseline_accuracy": 0.8
+}

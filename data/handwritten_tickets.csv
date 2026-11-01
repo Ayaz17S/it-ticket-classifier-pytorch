@@ -1,0 +1,31 @@
+text,category
+my laptop wont connect to the office network at all,network
+VPN not connecting from my home broadband,network
+the wireless in conference room B is dead,network
+internet extremely slow today cannot join calls,network
+cannot ping the internal server and the vpn shows red,network
+the screen of my notebook has a crack and lines on it,hardware
+laptop charger stopped working,hardware
+my docking station is not detecting the second monitor,hardware
+the touchpad is not responding,hardware
+printer is out of toner and not printing,hardware
+please grant me access to the finance sharepoint site,access
+I need permissions for the jira project of team alpha,access
+can I get admin rights to install node js,access
+access denied when opening the sales dashboard in power bi,access
+need to be added to the project confluence space,access
+I forgot my login password,password
+my account got locked out this morning,password
+authenticator app not giving codes after I reset my phone,password
+please reset my windows password,password
+not able to log in says credentials are wrong,password
+outlook not receiving any new mails since morning,email
+my emails are stuck in the outbox,email
+got a phishing mail pretending to be from the CEO,email
+meeting invites are not appearing in my calendar,email
+cannot open the shared team mailbox,email
+sap keeps crashing while saving the invoice,software
+license for tableau has expired please renew,software
+zoom app not launching after windows update,software
+jira page is loading forever and then shows an error,software
+excel freezes when opening big files,software
