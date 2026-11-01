@@ -52,6 +52,14 @@ I also tried PyTorch dynamic int8 quantization: the file was only 2% smaller and
 was *slower*, because quantization only affects Linear layers and most weights here sit in
 the embedding table. Measuring before optimising showed it was not worth it.
 
+## Web demo
+Interactive Streamlit app: type a ticket and see the category, confidence, assigned team and probability chart; classify many tickets at once in the Batch tab.
+
+```bash
+streamlit run streamlit_app.py      # opens http://localhost:8501
+```
+On first start the app trains the model if no saved model exists (same code as `app/train.py`).
+
 ## Run it
 ```bash
 pip install -r requirements.txt
